@@ -1,6 +1,7 @@
 {
   "servers": [
-        "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzM3@154.16.16.91:443#FreeStoneVpn"
+        "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzM3@154.16.16.91:443#FreeStoneVpn",
+    "vless://b26318a8-2033-4fc2-b777-64a56c32677c@151.101.64.155:80?mode=auto&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=&encryption=none&host=vistapcitttt.com&type=xhttp#%40Hddify"
 
   ]
 }
